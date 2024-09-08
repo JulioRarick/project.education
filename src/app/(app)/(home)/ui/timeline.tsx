@@ -1,6 +1,9 @@
 export function Timeline() {
   return (
-    <section className="rounded-lg bg-gradient-to-r from-cyan-900 via-cyan-800 to-cyan-900 p-4 shadow-xl lg:p-10">
+    <section
+      id="timeline"
+      className="rounded-lg bg-gradient-to-r from-cyan-900 via-cyan-800 to-cyan-900 p-4 shadow-xl lg:p-10"
+    >
       <h2 className="mb-2 text-center text-2xl font-bold tracking-tight text-white lg:mb-4 lg:text-4xl">
         Cronograma de Trabalho
       </h2>

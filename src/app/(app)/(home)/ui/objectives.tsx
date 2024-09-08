@@ -1,6 +1,6 @@
 export function Objectives() {
   return (
-    <section className="grid gap-12 lg:grid-cols-2">
+    <section id="objectives" className="grid gap-12 lg:grid-cols-2">
       <div>
         <h2 className="mb-4 text-2xl font-bold tracking-tight text-stone-900 lg:text-4xl">
           Tema e Objeto de Estudo

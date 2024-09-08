@@ -2,7 +2,10 @@ import Link from 'next/link'
 
 export function ReferencesHomeContent() {
   return (
-    <section className="flex flex-col gap-3 rounded-lg bg-white p-10 shadow-xl">
+    <section
+      id="references"
+      className="flex flex-col gap-3 rounded-lg bg-white p-10 shadow-lg"
+    >
       <h2 className="mb-2 text-center text-2xl font-bold tracking-tight text-cyan-900 lg:mb-4 lg:text-4xl">
         Referencial Teórico
       </h2>
@@ -28,7 +31,7 @@ export function ReferencesHomeContent() {
       </ul>
       <Link
         href="/references"
-        className="self-center rounded-sm bg-cyan-600 px-5 py-3 font-bold text-white shadow-md transition-colors hover:bg-cyan-500/80"
+        className="self-center rounded-sm bg-cyan-600 px-5 py-3 text-center text-sm font-bold text-white shadow-md transition-colors hover:bg-cyan-500/80 lg:text-base"
       >
         Ver conteúdo completo
       </Link>
