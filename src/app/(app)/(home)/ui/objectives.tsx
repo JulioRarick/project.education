@@ -30,12 +30,8 @@ export function Objectives() {
             mercado de trabalho.
           </li>
           <li>
-            Examinar as políticas educacionais voltadas para a formação de mão
-            de obra industrial e sua adequação às necessidades do mercado.
-          </li>
-          <li>
-            Avaliar o impacto dessas políticas na estruturação das relações de
-            trabalho e no desenvolvimento econômico do Brasil durante o Estado
+            Avaliar o impacto na estruturação das relações de trabalho e no
+            desenvolvimento econômico e educacional do Brasil, durante o Estado
             Novo.
           </li>
         </ul>
