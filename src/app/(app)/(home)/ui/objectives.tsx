@@ -14,7 +14,9 @@ export function Objectives() {
           </h3>
           <p className="text-stone-700">
             Analisar como eram organizadas as formas de trabalho no Estado Novo
-            e como o processo educacional influenciava nesse contexto.
+            e como o processo educacional influenciava nesse contexto, com
+            ênfase no papel das instituições de formação profissional criadas
+            durante o período.
           </p>
         </div>
       </div>
@@ -29,11 +31,12 @@ export function Objectives() {
           </li>
           <li>
             Examinar as políticas educacionais voltadas para a formação de mão
-            de obra industrial.
+            de obra industrial e sua adequação às necessidades do mercado.
           </li>
           <li>
             Avaliar o impacto dessas políticas na estruturação das relações de
-            trabalho no Brasil.
+            trabalho e no desenvolvimento econômico do Brasil durante o Estado
+            Novo.
           </li>
         </ul>
       </div>

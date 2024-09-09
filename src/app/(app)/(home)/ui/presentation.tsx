@@ -16,7 +16,10 @@ export function Presentation() {
           alt="Bandeira Universidade de Brasília - UNB"
           className="w-28 self-center shadow-lg"
         />
-        <h2 className="self-center py-2 font-semibold tracking-tight text-emerald-800">
+        <h2 className="self-center text-lg font-semibold tracking-tight text-emerald-800">
+          Universidade de Brasília | UnB
+        </h2>
+        <h2 className="self-center pb-2 font-medium tracking-tight text-emerald-800">
           Faculdade de Educação | FE
         </h2>
         <h3 className="text-lg font-semibold tracking-tight text-stone-800">
@@ -38,7 +41,11 @@ export function Presentation() {
           compreender as complexas relações entre educação e trabalho no
           contexto do Estado Novo (1937-1945), um período marcado pela
           centralização do poder e pela implementação de políticas que visavam à
-          modernização do Brasil.
+          modernização do Brasil. O interesse particular reside na análise de
+          como o processo educacional, especialmente no âmbito da formação
+          profissional, foi articulado pelo governo de Getúlio Vargas para
+          moldar a mão de obra de acordo com as exigências do mercado de
+          trabalho emergente.
         </p>
       </div>
     </section>

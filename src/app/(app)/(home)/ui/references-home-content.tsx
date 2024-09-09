@@ -28,6 +28,9 @@ export function ReferencesHomeContent() {
           <span className="font-semibold">Dermeval Saviani:</span> “Trabalho e
           educação: fundamentos ontológicos e históricos”
         </li>
+        <li className="text-center text-sm font-light text-cyan-900 lg:text-lg">
+          <span className="font-semibold">entre outros...</span>
+        </li>
       </ul>
       <Link
         href="/references"

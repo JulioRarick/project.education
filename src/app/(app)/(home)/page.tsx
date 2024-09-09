@@ -1,5 +1,8 @@
+'use client'
+
 import { Footer } from '@/components/footer'
 import { Header } from '@/components/header'
+import { ScrollToTopButton } from '@/components/scroll-to-top-button'
 
 import { Bibliography } from './ui/bibliography'
 import { Justification } from './ui/justification'
@@ -24,6 +27,7 @@ export default function Home() {
         <Timeline />
         <Bibliography />
       </main>
+      <ScrollToTopButton />
       <Footer />
     </>
   )

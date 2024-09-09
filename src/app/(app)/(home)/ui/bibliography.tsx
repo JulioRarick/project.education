@@ -6,21 +6,35 @@ export function Bibliography() {
       </h2>
       <ul className="space-y-3 text-justify text-sm lg:text-lg">
         <li>
-          Bloch, Marc. <i>Apologia da História ou O Ofício de Historiador</i>.
+          BLOCH, Marc. <i>Apologia da História ou O Ofício de Historiador</i>.
           Rio de Janeiro: Zahar, 2001.
         </li>
         <li>
-          Gomes, Angela de Castro. <i>A invenção do trabalhismo</i>. Rio de
+          GOMES, Angela de Castro. <i>A invenção do trabalhismo</i>. Rio de
           Janeiro: Editora FGV, 2005.
         </li>
         <li>
-          Ferreira, Jorge; Delgado, Lucília de Almeida Neves (Orgs.).{' '}
+          FERREIRA, Jorge; Delgado, Lucília de Almeida Neves (Orgs.).{' '}
           <i>O Brasil republicano, v. 2</i>. Civilização Brasileira, 2007.
         </li>
         <li>
-          Saviani, Dermeval.{' '}
+          FRAGA, André Barbosa; LAGO, Mayra Coan; MOURELLE, Thiago Cavaliere
+          (Orgs.). <i>Governo Vargas: um projeto de nação</i>. Rio de Janeiro: 7
+          Letras, 2020.
+        </li>
+        <li>
+          SAVIANI, Dermeval.{' '}
           <i>Trabalho e educação: fundamentos ontológicos e históricos</i>. São
           Paulo: Editora Autores Associados, 2007.
+        </li>
+        <li>
+          KUENZER, Acácia Zeneida. <i>Pedagogia da fábrica</i>. São Paulo:
+          Editora Cortez, 2011.
+        </li>
+        <li>
+          RAMOS, Marise Nogueira.{' '}
+          <i>Trabalho, educação e correntes pedagógicas no Brasil</i>. São
+          Paulo: Editora Cortez, 2010.
         </li>
       </ul>
     </section>

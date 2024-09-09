@@ -1,3 +1,5 @@
+'use client'
+
 import Link from 'next/link'
 import {
   FaBook,
@@ -11,6 +13,7 @@ import {
 
 import { Footer } from '@/components/footer'
 import { Header } from '@/components/header'
+import { ScrollToTopButton } from '@/components/scroll-to-top-button'
 
 import { ReferencesMap } from './ui/references-map'
 
@@ -117,6 +120,7 @@ export default function References() {
           </p>
         </Link>
       </main>
+      <ScrollToTopButton />
       <Footer />
     </>
   )

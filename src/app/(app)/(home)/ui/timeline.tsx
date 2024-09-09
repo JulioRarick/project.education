@@ -21,7 +21,7 @@ export function Timeline() {
                 Revisão bibliográfica
               </td>
               <td className="border px-4 py-2 text-stone-700">
-                Setembro a Outubro de 2024
+                Janeiro a Março de 2025
               </td>
             </tr>
             <tr>
@@ -29,7 +29,7 @@ export function Timeline() {
                 Coleta e análise de fontes
               </td>
               <td className="border px-4 py-2 text-stone-700">
-                Novembro de 2024 a Janeiro de 2025
+                Abril a Junho de 2025
               </td>
             </tr>
             <tr>
@@ -37,15 +37,15 @@ export function Timeline() {
                 Análise de manuais didáticos
               </td>
               <td className="border px-4 py-2 text-stone-700">
-                Dezembro de 2024 a Fevereiro de 2025
+                Julho e Agosto de 2025
               </td>
             </tr>
             <tr>
               <td className="border px-4 py-2 text-stone-700">
-                Redação do capítulo teórico
+                Redação final da dissertação
               </td>
               <td className="border px-4 py-2 text-stone-700">
-                Fevereiro a Março de 2025
+                Setembro a Novembro de 2025
               </td>
             </tr>
           </tbody>
