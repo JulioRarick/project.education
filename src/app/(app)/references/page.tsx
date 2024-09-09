@@ -70,24 +70,21 @@ export default function References() {
                 <FaBuilding className="text-5xl text-green-500 lg:text-2xl" />
                 <span>
                   Analisar a estruturação das instituições responsáveis pela
-                  implementação dessas políticas, com foco no Sistema S (Maria
-                  Celina D’Araújo).
+                  implementação dessas políticas, com foco no Sistema S.
                 </span>
               </li>
               <li className="flex items-center space-x-3">
                 <FaGlobe className="text-5xl text-yellow-500 lg:text-2xl" />
                 <span>
                   Contextualizar essas políticas dentro do projeto
-                  nacional-estatista do Estado Novo (Jorge Ferreira e Lucília de
-                  Almeida Neves Delgado).
+                  nacional-estatista do Estado Novo.
                 </span>
               </li>
               <li className="flex items-center space-x-3">
                 <FaEye className="text-5xl text-red-500 lg:text-2xl" />
                 <span>
                   Compreender como essas políticas se inserem no projeto de
-                  nação de Vargas, e sua visão para o futuro do Brasil (André
-                  Barbosa Fraga et al.).
+                  nação de Vargas, e sua visão para o futuro do Brasil.
                 </span>
               </li>
               <li className="flex items-center space-x-3">
