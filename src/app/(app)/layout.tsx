@@ -15,7 +15,7 @@ const geistMono = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'Educação e Trabalho',
+  title: 'project.education | Júlio Rarick',
   description: 'Code by Júlio Rarick',
 }
 
